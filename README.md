@@ -1,10 +1,10 @@
 ```markdown
-# All-in-One File Manager & Downloader (v3.0)
+### All-in-One File Manager & Downloader (v3.0)
 ### ~ Split Architecture Edition ~
 
 このツールは、重いダウンロード処理とファイル管理を分離することで**安定性と操作性を両立させたファイル管理システム**です。
 
-## 📋 構成
+### 📋 構成
 
 1.  **ダウンローダー (`downloader.py`)**
     *   ターミナルで実行
@@ -18,7 +18,7 @@
 
 ---
 
-## 🛠 1. インストール / セットアップ (初回のみ)
+### 🛠 1. インストール / セットアップ (初回のみ)
 
 GitHub Codespaces (Linux/Ubuntu) のターミナルで以下のコマンドを順に実行してください。
 
